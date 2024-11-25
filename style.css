@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: aqua;
+    text-transform: capitalize;
+    font-size: 32px;
+}
